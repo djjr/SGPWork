@@ -1,0 +1,798 @@
+{
+  "learningoutcomes-los/readme": {
+    "title": " README",
+    "excerpt": "Learning Outcomes — folder schema One markdown file per MPP-AI learning outcome (LO). This folder is the intended source of authority: edit LOs here, then regenerate the data block in ../MPP AI Outcomes Network.html. Fil",
+    "tags": [
+      "learning-outcome-index"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/readme/"
+  },
+  "a-learning-taxonomy-for-ai-governance": {
+    "title": "A Learning Taxonomy for AI Governance",
+    "excerpt": "Learning Taxonomy for AI Governance - What? - Why? - How? - And then what? note: Most of us have been tyrannized for years, if not decades, by our institutions peddling \"learning outcomes,\" \"rubrics,\" and \"assessments.\" ",
+    "tags": [
+      "slides"
+    ],
+    "url": "/SGPWork/a-learning-taxonomy-for-ai-governance/"
+  },
+  "acronyms": {
+    "title": "Acronyms",
+    "excerpt": "Contents of the Acronyms folder.",
+    "tags": [],
+    "url": "/SGPWork/acronyms/"
+  },
+  "learningoutcomes-los/actunderuncertainty": {
+    "title": "ActUnderUncertainty",
+    "excerpt": "ActUnderUncertainty Apply decision frameworks for deep uncertainty (precaution, option value, irreversibility, cost-of-delay vs. cost-of-error) to a contested AI policy choice. Knols Atomic knowledge/skill units this out",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/actunderuncertainty/"
+  },
+  "learningoutcomes-los/adaptationtradeoffs": {
+    "title": "AdaptationTradeoffs",
+    "excerpt": "AdaptationTradeoffs Evaluate the tradeoffs of adaptation strategies across resilience, equity, and speed. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/adaptationtradeoffs/"
+  },
+  "learningoutcomes-los/adminstate": {
+    "title": "AdminState",
+    "excerpt": "AdminState Assess how the administrative state must adapt to advanced AI. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/adminstate/"
+  },
+  "learningoutcomes-los/adoptionpath": {
+    "title": "AdoptionPath",
+    "excerpt": "AdoptionPath Construct a feasible adoption path — coalition, framing, venue, sequencing — for a governance design. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes ",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/adoptionpath/"
+  },
+  "acronyms/agi": {
+    "title": "AGI",
+    "excerpt": "AGI Artificial General Intelligence. AI systems matching or exceeding human performance across most cognitive domains, rather than in narrow tasks. The curriculum's \"A(G)I transition\" framing deliberately hedges on wheth",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/agi/"
+  },
+  "ai-augmented-curriculum-design": {
+    "title": "AI Augmented Curriculum Design",
+    "excerpt": "Faculty generated a first draft of MPP AI Courses: - Building the AI Frontier: From Linear Algebra to Political Economy - Tracking and Anticipating AI Impacts - AI and What We Owe to Each Other - Building the Governance ",
+    "tags": [],
+    "url": "/SGPWork/ai-augmented-curriculum-design/"
+  },
+  "learningoutcomes-los/alignmenttoolkit": {
+    "title": "AlignmentToolkit",
+    "excerpt": "AlignmentToolkit Explain and critique current alignment methods (RLHF, RLVR) and system-level defenses. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/alignmenttoolkit/"
+  },
+  "learningoutcomes-los/buildaneval": {
+    "title": "BuildAnEval",
+    "excerpt": "BuildAnEval Compare in-the-wild vs lab evaluations; design an evaluation for a given capability/propensity. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes See AI ",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/buildaneval/"
+  },
+  "learningoutcomes-los/capabilityvspropensity": {
+    "title": "CapabilityVsPropensity",
+    "excerpt": "CapabilityVsPropensity Explain how AI evaluations work; distinguish capability from propensity evaluations. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/capabilityvspropensity/"
+  },
+  "learningoutcomes-los/capturerisk": {
+    "title": "CaptureRisk",
+    "excerpt": "CaptureRisk Diagnose regulatory capture and industry–government information asymmetry in AI policy, and design safeguards against them. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/capturerisk/"
+  },
+  "learningoutcomes-los/clearthepath": {
+    "title": "ClearThePath",
+    "excerpt": "ClearThePath Identify norms/regulations that block beneficial AI deployment and propose reforms. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/clearthepath/"
+  },
+  "acronyms/cnn": {
+    "title": "CNN",
+    "excerpt": "CNN Convolutional Neural Network. Architecture built on local filters slid across an input, historically dominant in computer vision. Part of the pre-transformer architectural landscape referenced in ModelAnatomy.",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/cnn/"
+  },
+  "learningoutcomes-los/computegovernance": {
+    "title": "ComputeGovernance",
+    "excerpt": "ComputeGovernance Analyze compute-based policy levers (export controls, chip tracking, cloud KYC, verification regimes) as instruments of international AI governance. Knols Atomic knowledge/skill units this outcome decom",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/computegovernance/"
+  },
+  "learningoutcomes-los/computestack": {
+    "title": "ComputeStack",
+    "excerpt": "ComputeStack Map the material supply chain of frontier AI (compute, energy, data, capital, labor) and its chokepoints. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - No",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/computestack/"
+  },
+  "learningoutcomes-los/contentvsgrounds": {
+    "title": "ContentVsGrounds",
+    "excerpt": "ContentVsGrounds Distinguish the content of our obligations from their grounds; explain how AI changes each. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/contentvsgrounds/"
+  },
+  "learningoutcomes-los/crisisplaybook": {
+    "title": "CrisisPlaybook",
+    "excerpt": "CrisisPlaybook Design an incident-response mechanism for AI emergencies (frontier-model incident, large-scale misuse event): triggers, authorities, coordination, communication. Knols Atomic knowledge/skill units this out",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/crisisplaybook/"
+  },
+  "learningoutcomes-los/culturescienceflourishing": {
+    "title": "CultureScienceFlourishing",
+    "excerpt": "CultureScienceFlourishing Assess AI's impacts on culture, family, relationships, science, and long-term flourishing. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Note",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/culturescienceflourishing/"
+  },
+  "curriculum-design-and-employer-demand": {
+    "title": "Curriculum Design and Employer Demand",
+    "excerpt": "Consider this 2024 post by folks at MATS on Less Wrong: \"Talent Needs of Technical AI Safety Teams\" Claude reflections based on prompt to think about it in relation to GAIT and SGP curriculum. Distillation, filtered for ",
+    "tags": [],
+    "url": "/SGPWork/curriculum-design-and-employer-demand/"
+  },
+  "learningoutcomes-los/democracyadapts": {
+    "title": "DemocracyAdapts",
+    "excerpt": "DemocracyAdapts Assess how democratic institutions must adapt to advanced AI. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/democracyadapts/"
+  },
+  "learningoutcomes-los/democracyandinfo": {
+    "title": "DemocracyAndInfo",
+    "excerpt": "DemocracyAndInfo Assess AI's impacts on democracy, state capacity, and the information ecosystem. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/democracyandinfo/"
+  },
+  "learningoutcomes-los/democraticalignment": {
+    "title": "DemocraticAlignment",
+    "excerpt": "DemocraticAlignment Evaluate approaches for making alignment/evaluation responsive to democratic values. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/democraticalignment/"
+  },
+  "learningoutcomes-los/democratictest": {
+    "title": "DemocraticTest",
+    "excerpt": "DemocraticTest Evaluate governance designs against democratic ideals: legitimacy, accountability, representation. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/democratictest/"
+  },
+  "learningoutcomes-los/designgov": {
+    "title": "DesignGov",
+    "excerpt": "DesignGov Design a governance mechanism for a specific AI problem and justify its institutional fit. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/designgov/"
+  },
+  "gait/djr-on-public-input-efforts": {
+    "title": "DJR on public input efforts",
+    "excerpt": "We suggest \"infrastructure to support broader public input\" \\[into model spec docs and evals and assessment]. What is the status quo? \"Infrastructure\" is an overly ambitious term for the status quo. Most of what exists i",
+    "tags": [],
+    "url": "/SGPWork/gait/djr-on-public-input-efforts/"
+  },
+  "learningoutcomes-los/doweoweai": {
+    "title": "DoWeOweAI",
+    "excerpt": "DoWeOweAI Assess whether, and what, we might owe to AI systems themselves (moral status). Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/doweoweai/"
+  },
+  "learningoutcomes-los/earlywarning": {
+    "title": "EarlyWarning",
+    "excerpt": "EarlyWarning Assess early-warning evaluation strategies for propensities that could be catastrophic. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/earlywarning/"
+  },
+  "learningoutcomes-los/economyadapts": {
+    "title": "EconomyAdapts",
+    "excerpt": "EconomyAdapts Assess how economic institutions (labor, distribution, markets) must adapt to advanced AI. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/economyadapts/"
+  },
+  "learningoutcomes-los/economyandwork": {
+    "title": "EconomyAndWork",
+    "excerpt": "EconomyAndWork Assess AI's impacts on labor, productivity, the economy, and quality of life. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/economyandwork/"
+  },
+  "learningoutcomes-los/envirofootprint": {
+    "title": "EnviroFootprint",
+    "excerpt": "EnviroFootprint Assess the energy, water, and land-use impacts of the compute build-out and the policy conflicts they create. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol note",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/envirofootprint/"
+  },
+  "learningoutcomes-los/everydayharms": {
+    "title": "EverydayHarms",
+    "excerpt": "EverydayHarms Analyze documented harms of deployed AI systems (bias, discrimination, surveillance) and assess the accountability mechanisms developed in response. Knols Atomic knowledge/skill units this outcome decompose",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/everydayharms/"
+  },
+  "learningoutcomes-los/expertdisagreement": {
+    "title": "ExpertDisagreement",
+    "excerpt": "ExpertDisagreement Adjudicate among conflicting expert worldviews (fast/slow timelines, catastrophic/mundane risk) without collapsing into either deference or dismissal. Knols Atomic knowledge/skill units this outcome de",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/expertdisagreement/"
+  },
+  "learningoutcomes-los/fluentpractitioner": {
+    "title": "FluentPractitioner",
+    "excerpt": "FluentPractitioner Use frontier AI tools critically in one's own policy work (analysis, drafting, red-teaming) and evaluate the reliability of their outputs. Knols Atomic knowledge/skill units this outcome decomposes int",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/fluentpractitioner/"
+  },
+  "learningoutcomes-los/forecastaudit": {
+    "title": "ForecastAudit",
+    "excerpt": "ForecastAudit Evaluate the reliability of impact claims and forecasts; name the sources of uncertainty. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/forecastaudit/"
+  },
+  "learningoutcomes-los/foresight": {
+    "title": "Foresight",
+    "excerpt": "Foresight Construct and critique methods for anticipating impacts of more capable systems. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes 1. Kokotajlo, et al. AI ",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/foresight/"
+  },
+  "learningoutcomes-los/frameworksclash": {
+    "title": "FrameworksClash",
+    "excerpt": "FrameworksClash Apply major ethical frameworks to AI dilemmas; identify where they conflict or run out. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/frameworksclash/"
+  },
+  "gait": {
+    "title": "GAIT",
+    "excerpt": "Contents of the GAIT folder.",
+    "tags": [],
+    "url": "/SGPWork/gait/"
+  },
+  "images/gait-academia-usual-parameters-1": {
+    "title": "GAIT Academia Usual Parameters 1",
+    "excerpt": "==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'S",
+    "tags": [
+      "excalidraw"
+    ],
+    "url": "/SGPWork/images/gait-academia-usual-parameters-1/"
+  },
+  "gait/gait-musings-djr": {
+    "title": "GAIT Musings DJR",
+    "excerpt": "Scholarship across cognitive science, primatology, and sociology frames human social evolution as a series of ex post solutions to the alignment problems generated by emergent \"super intelligences.\" In the present contex",
+    "tags": [],
+    "url": "/SGPWork/gait/gait-musings-djr/"
+  },
+  "gait/gait-proposal-djr": {
+    "title": "GAIT Proposal (+ DJR)",
+    "excerpt": "Governing the AI Transition Initiative at the School of Government and Policy Recap: Governing the AI Transition (GAIT) focuses on how liberal democracies can navigate the transition to powerful AI systems—systems that a",
+    "tags": [],
+    "url": "/SGPWork/gait/gait-proposal-djr/"
+  },
+  "gait/gait-proposal-original": {
+    "title": "GAIT proposal Original",
+    "excerpt": "GAIT Initiative (see also DJR MarkedUp Version) Recap: GAIT focuses on liberal democracies navigate the transition to powerful AI systems—systems that are highly general, that operate autonomously without the need for pr",
+    "tags": [],
+    "url": "/SGPWork/gait/gait-proposal-original/"
+  },
+  "learningoutcomes-los/globalstakes": {
+    "title": "GlobalStakes",
+    "excerpt": "GlobalStakes Assess how the transition distributes power and benefit across countries, including those with no frontier developers. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to kno",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/globalstakes/"
+  },
+  "learningoutcomes-los/govai": {
+    "title": "GovAI",
+    "excerpt": "GovAI Evaluate a government deployment of an algorithmic or AI system across procurement, impact assessment, audit, and redress. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol n",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/govai/"
+  },
+  "learningoutcomes-los/governanceroots": {
+    "title": "GovernanceRoots",
+    "excerpt": "GovernanceRoots Trace the historical development of collective-governance mechanisms and the problems each solved. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/governanceroots/"
+  },
+  "learningoutcomes-los/govtoolkit": {
+    "title": "GovToolkit",
+    "excerpt": "GovToolkit Inventory the contemporary governance toolkit and assess each tool's fit for AI. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/govtoolkit/"
+  },
+  "learningoutcomes-los/hardentargets": {
+    "title": "HardenTargets",
+    "excerpt": "HardenTargets Analyze risks unfixable at the model level (misuse, uncoordinated action) and design target-hardening. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Note",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/hardentargets/"
+  },
+  "learningoutcomes-los/hypevsreal": {
+    "title": "HypeVsReal",
+    "excerpt": "HypeVsReal Interpret quantitative claims about model cost and capability; tell a real result from marketing. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/hypevsreal/"
+  },
+  "images": {
+    "title": "Images",
+    "excerpt": "Contents of the Images folder.",
+    "tags": [],
+    "url": "/SGPWork/images/"
+  },
+  "index": {
+    "title": "index",
+    "excerpt": "CurricMtrl — index Curriculum design workstream for the MPP-AI concentration, part of the GAIT initiative (Governing the AI Transition). See also GAIT Proposal (+ DJR) and GAIT Musings DJR in GAIT/. Courses. MPP AI Cours",
+    "tags": [
+      "index"
+    ],
+    "url": "/SGPWork/index/"
+  },
+  "learningoutcomes-los/insiderethics": {
+    "title": "InsiderEthics",
+    "excerpt": "InsiderEthics Reason about role morality for professionals inside the transition: dissent, whistleblowing, complicity, and the ethics of working within institutions one believes inadequate. Knols Atomic knowledge/skill u",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/insiderethics/"
+  },
+  "learningoutcomes-los/institutionsadapt": {
+    "title": "InstitutionsAdapt",
+    "excerpt": "Superceded by AdminState, EconomyAdapts, and DemocracyAdapts",
+    "tags": [],
+    "url": "/SGPWork/learningoutcomes-los/institutionsadapt/"
+  },
+  "acronyms/iso": {
+    "title": "ISO",
+    "excerpt": "ISO International Organization for Standardization. International standards body (e.g. ISO/IEC 42001 for AI management systems). With NIST, the main standard-setting channel in the regulatory landscape mapped in RegMap —",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/iso/"
+  },
+  "acronyms/kyc": {
+    "title": "KYC",
+    "excerpt": "KYC Know Your Customer. Identity-verification obligations, borrowed from banking regulation. \"Cloud KYC\" proposals would require compute providers to verify who is training large models — a compute-based governance lever",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/kyc/"
+  },
+  "learningoutcomes-los/labgovernance": {
+    "title": "LabGovernance",
+    "excerpt": "LabGovernance Assess corporate-governance instruments at frontier labs (RSPs/frontier safety policies, board structures, safety cases, whistleblower channels) as a layer of AI governance. Knols Atomic knowledge/skill uni",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/labgovernance/"
+  },
+  "learningoutcomes-los": {
+    "title": "LearningOutcomes (LOs)",
+    "excerpt": "Contents of the LearningOutcomes (LOs) folder.",
+    "tags": [],
+    "url": "/SGPWork/learningoutcomes-los/"
+  },
+  "learningoutcomes-los/liabilitygaps": {
+    "title": "LiabilityGaps",
+    "excerpt": "LiabilityGaps Analyze how existing doctrine (tort, IP, privacy, antitrust, agency law) applies — and fails to apply — to AI systems and autonomous agents. Knols Atomic knowledge/skill units this outcome decomposes into. ",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/liabilitygaps/"
+  },
+  "learningoutcomes-los/longhorizon": {
+    "title": "LongHorizon",
+    "excerpt": "LongHorizon Reason about long-horizon normative questions (loss of control, future generations). Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/longhorizon/"
+  },
+  "learningoutcomes-los/makethecase": {
+    "title": "MakeTheCase",
+    "excerpt": "MakeTheCase Construct and defend a normative argument bearing on a specific AI governance choice. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/makethecase/"
+  },
+  "learningoutcomes-los/mathfoundations": {
+    "title": "MathFoundations",
+    "excerpt": "MathFoundations Work hands-on through the linear-algebra/probability intuitions underlying how a model computes. Knols - vector - dot product - matrix - matrix multiplication - vector space - embedding space - subtractin",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/mathfoundations/"
+  },
+  "acronyms/mats": {
+    "title": "MATS",
+    "excerpt": "MATS ML Alignment Theory Scholars. Intensive fellowship program that selects already-skilled researchers and provides final polish plus placement into alignment work. Used in Curriculum Design and Employer Demand as the ",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/mats/"
+  },
+  "learningoutcomes-los/measurenow": {
+    "title": "MeasureNow",
+    "excerpt": "MeasureNow Apply social-scientific methods, and state their limits, to measure current AI impacts. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/measurenow/"
+  },
+  "acronyms/mlp": {
+    "title": "MLP",
+    "excerpt": "MLP Multilayer Perceptron. The basic feed-forward neural network: layers of weighted sums passed through nonlinearities. Also names the feed-forward blocks that alternate with attention inside a transformer. Prerequisite",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/mlp/"
+  },
+  "learningoutcomes-los/modelanatomy": {
+    "title": "ModelAnatomy",
+    "excerpt": "ModelAnatomy Describe, conceptually, the architecture of a transformer system (tokens, parameters, attention, scaling). Knols - Token & tokenization (text ⇄ tokens) - Embedding vector (token → vector) - Parameter / weigh",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/modelanatomy/"
+  },
+  "mpp-ai-courses": {
+    "title": "MPP AI Courses",
+    "excerpt": "LINK MPP-AI The MPP-AI Graduate Artificial intelligence is not only a new technology, it ushers in a transformation of human society that challenges the very foundations of collective governance. The MPP-AI aims to educa",
+    "tags": [],
+    "url": "/SGPWork/mpp-ai-courses/"
+  },
+  "mpp-ai-curriculum-gaps-gait-knowledge-doc": {
+    "title": "MPP AI Curriculum Gaps — GAIT Knowledge Doc",
+    "excerpt": "MPP-AI Curriculum: Gap Analysis (Distilled) Status: Distilled summary for GAIT project knowledge. Full analysis with all proposed outcome language in MPP AI Gap Analysis; source documents are MPP-AI Courses and MPP AI Le",
+    "tags": [],
+    "url": "/SGPWork/mpp-ai-curriculum-gaps-gait-knowledge-doc/"
+  },
+  "mpp-ai-gap-analysis": {
+    "title": "MPP AI Gap Analysis",
+    "excerpt": "MPP-AI — Gap Analysis (What the Courses Don't Say) Companion to MPP AI Learning Outcomes (LOs). Question posed: if the mission is policy professionals prepared to make a difference in governing the A(G)I transition, what",
+    "tags": [],
+    "url": "/SGPWork/mpp-ai-gap-analysis/"
+  },
+  "mpp-ai-learning-outcomes-los": {
+    "title": "MPP AI Learning Outcomes (LOs)",
+    "excerpt": "MPP-AI — Learning Outcomes (First Draft) Draft learning outcomes for the MPP-AI concentration, one set per course. Written to support a downstream analysis of overlap (the same content taught in two courses) and dependen",
+    "tags": [],
+    "url": "/SGPWork/mpp-ai-learning-outcomes-los/"
+  },
+  "mpp-ai-open-threads": {
+    "title": "MPP AI Open Threads",
+    "excerpt": "MPP-AI Curriculum — Open Threads / Parking Lot Running list of deferred decisions and ideas from the learning-outcomes work. Add to the top. 1. \"Knols\" — a sub-outcome layer of knowledge/skill atoms Bookmarked 2026-07-11",
+    "tags": [],
+    "url": "/SGPWork/mpp-ai-open-threads/"
+  },
+  "mpp-ai-progress-slides": {
+    "title": "MPP AI Progress Slides",
+    "excerpt": "MPP-AI Curriculum Where we are Designing the MPP-AI concentration for the School of Government and Policy, under the GAIT initiative — Governing the AI Transition. Six courses → outcomes → network → gaps → taxonomy. --- ",
+    "tags": [
+      "slides"
+    ],
+    "url": "/SGPWork/mpp-ai-progress-slides/"
+  },
+  "learningoutcomes-los/newdilemmas": {
+    "title": "NewDilemmas",
+    "excerpt": "NewDilemmas Analyze novel practical normative questions (delegation, responsibility gaps, machine courtesy). Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/newdilemmas/"
+  },
+  "learningoutcomes-los/newmechanisms": {
+    "title": "NewMechanisms",
+    "excerpt": "NewMechanisms Analyze innovative proposals (regulatory markets, agent registration) against AI's scale and speed. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/newmechanisms/"
+  },
+  "acronyms/nist": {
+    "title": "NIST",
+    "excerpt": "NIST National Institute of Standards and Technology. US federal standards agency. Its AI Risk Management Framework is the de facto reference standard for US AI governance-by-standards; part of the landscape mapped in Reg",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/nist/"
+  },
+  "learningoutcomes-los/openthebox": {
+    "title": "OpenTheBox",
+    "excerpt": "OpenTheBox Explain interpretability and transparency methods for understanding model internals. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/openthebox/"
+  },
+  "pedagogical-resources": {
+    "title": "Pedagogical Resources",
+    "excerpt": "1. Blue Dot Impact Courses 2. Hendrycks AI Safety Ethics and Society Course",
+    "tags": [],
+    "url": "/SGPWork/pedagogical-resources/"
+  },
+  "learningoutcomes-los/powermap": {
+    "title": "PowerMap",
+    "excerpt": "PowerMap Map the interests, resources, and influence channels of the actors in a specific AI policy fight (labs, incumbents, civil society, publics, agencies). Knols Atomic knowledge/skill units this outcome decomposes i",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/powermap/"
+  },
+  "learningoutcomes-los/racedynamics": {
+    "title": "RaceDynamics",
+    "excerpt": "RaceDynamics Model strategic dynamics among states and labs (racing, deterrence, coordination failure) and assess interventions intended to alter them. Knols Atomic knowledge/skill units this outcome decomposes into. Add",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/racedynamics/"
+  },
+  "learningoutcomes-los/regmap": {
+    "title": "RegMap",
+    "excerpt": "RegMap Map the current AI regulatory landscape across major jurisdictions and compare the mechanism designs embedded in each. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol note",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/regmap/"
+  },
+  "acronyms/rlhf": {
+    "title": "RLHF",
+    "excerpt": "RLHF Reinforcement Learning from Human Feedback. Post-training technique in which human raters' preferences over model outputs train a reward model, which is then used to fine-tune the model's behavior. The workhorse of ",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/rlhf/"
+  },
+  "acronyms/rlvr": {
+    "title": "RLVR",
+    "excerpt": "RLVR Reinforcement Learning from Verifiable Rewards. Post-training against rewards that can be checked automatically (does the code pass tests? is the math answer right?) rather than judged by humans. Driver of recent re",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/rlvr/"
+  },
+  "acronyms/rnn": {
+    "title": "RNN",
+    "excerpt": "RNN Recurrent Neural Network. Sequence-processing architecture that carries a hidden state token-by-token. The dominant approach to language modeling before the transformer replaced it; useful contrast case in ModelAnato",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/rnn/"
+  },
+  "acronyms/roc": {
+    "title": "ROC",
+    "excerpt": "ROC Receiver Operating Characteristic. Curve plotting a classifier's true-positive rate against its false-positive rate across decision thresholds. Reading one is a candidate knol-level skill for evaluation literacy (see",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/roc/"
+  },
+  "acronyms/rsp": {
+    "title": "RSP",
+    "excerpt": "RSP Responsible Scaling Policy. A frontier lab's public commitment tying capability thresholds to required safeguards (if a model can do X, we must have protection Y before deploying/scaling). Anthropic's term; the genus",
+    "tags": [
+      "acronym"
+    ],
+    "url": "/SGPWork/acronyms/rsp/"
+  },
+  "learningoutcomes-los/scalingdrivers": {
+    "title": "ScalingDrivers",
+    "excerpt": "ScalingDrivers Identify drivers of recent progress (scaling laws, compute, data, algorithms) and reason about future advances. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol not",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/scalingdrivers/"
+  },
+  "learningoutcomes-los/scalinglimits": {
+    "title": "ScalingLimits",
+    "excerpt": "ScalingLimits Analyze why current techniques may fail to scale to more capable systems. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/scalinglimits/"
+  },
+  "learningoutcomes-los/sectorplan": {
+    "title": "SectorPlan",
+    "excerpt": "SectorPlan Develop a societal-adaptation proposal for a specific sector. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/sectorplan/"
+  },
+  "learningoutcomes-los/securityandgeopolitics": {
+    "title": "SecurityAndGeopolitics",
+    "excerpt": "SecurityAndGeopolitics Assess AI's impacts on war, geopolitics, and physical critical infrastructure. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/securityandgeopolitics/"
+  },
+  "learningoutcomes-los/securityofmodels": {
+    "title": "SecurityOfModels",
+    "excerpt": "SecurityOfModels Explain model security as distinct from alignment: theft of weights, jailbreak robustness, safeguards against fine-tuning away safety training. Knols Atomic knowledge/skill units this outcome decomposes ",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/securityofmodels/"
+  },
+  "learningoutcomes-los/socialcontract": {
+    "title": "SocialContract",
+    "excerpt": "SocialContract Evaluate whether declining mutual interdependence erodes the liberal social contract. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/socialcontract/"
+  },
+  "learningoutcomes-los/softgovernance": {
+    "title": "SoftGovernance",
+    "excerpt": "SoftGovernance Distinguish private/self-governance, standard-setting, and epistemic communities from state governance. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - No",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/softgovernance/"
+  },
+  "learningoutcomes-los/systemvssociety": {
+    "title": "SystemVsSociety",
+    "excerpt": "SystemVsSociety Distinguish system-directed interventions from institution-directed societal adaptation. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/systemvssociety/"
+  },
+  "learningoutcomes-los/techprecedents": {
+    "title": "TechPrecedents",
+    "excerpt": "TechPrecedents Extract design lessons, including failure modes, from past attempts to govern transformative technologies (nuclear, recombinant DNA/Asilomar, internet, financial innovation). Knols Atomic knowledge/skill u",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/techprecedents/"
+  },
+  "learningoutcomes-los/trainingpipeline": {
+    "title": "TrainingPipeline",
+    "excerpt": "TrainingPipeline Explain the stages of training a frontier model (pretraining, fine-tuning, RLHF/RLVR) and how each shapes capabilities and propensities. Knols Atomic knowledge/skill units this outcome decomposes into. A",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/trainingpipeline/"
+  },
+  "learningoutcomes-los/trajectory": {
+    "title": "Trajectory",
+    "excerpt": "Trajectory Synthesize cross-sector findings into a coherent account of the transition's arc. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/trajectory/"
+  },
+  "learningoutcomes-los/translatetech": {
+    "title": "TranslateTech",
+    "excerpt": "TranslateTech Communicate technical claims about AI systems, including their uncertainty, to non-technical decision-makers in briefing, testimony, and memo form. Knols Atomic knowledge/skill units this outcome decomposes",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/translatetech/"
+  },
+  "learningoutcomes-los/treatydesign": {
+    "title": "TreatyDesign",
+    "excerpt": "TreatyDesign Evaluate proposals for international AI agreements and institutions (monitoring, verification, benefit-sharing) against the track record of arms-control and nonproliferation regimes. Knols Atomic knowledge/s",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/treatydesign/"
+  },
+  "learningoutcomes-los/waystoorder": {
+    "title": "WaysToOrder",
+    "excerpt": "WaysToOrder Compare governance modalities (markets, democracy, hierarchy, standard-setting) by how each produces order. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - N",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/waystoorder/"
+  },
+  "learningoutcomes-los/whocontrolsai": {
+    "title": "WhoControlsAI",
+    "excerpt": "WhoControlsAI Analyze how the political economy of frontier AI shapes who controls the technology. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/whocontrolsai/"
+  },
+  "learningoutcomes-los/windowwatch": {
+    "title": "WindowWatch",
+    "excerpt": "WindowWatch Analyze how policy windows open (incidents, elections, crises) and construct a strategy for moving a proposal when one opens. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks ",
+    "tags": [
+      "learning-outcome",
+      "proposed-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/windowwatch/"
+  },
+  "learningoutcomes-los/winnerslosers": {
+    "title": "WinnersLosers",
+    "excerpt": "WinnersLosers Distinguish opportunities from risks and characterize how each is distributed. Knols Atomic knowledge/skill units this outcome decomposes into. Add as wikilinks to knol notes. - Notes",
+    "tags": [
+      "learning-outcome"
+    ],
+    "url": "/SGPWork/learningoutcomes-los/winnerslosers/"
+  }
+}

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Learning Taxonomy for AI Governance</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/simple.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap">
+<style>
+  :root { --paper: #fbf8f0; --ink: #25221e; --accent: #8b3f2f; --muted: #6d655c; }
+  body { background: var(--paper); }
+  .reveal { font-family: Georgia, Cambria, "Times New Roman", serif; background: var(--paper); color: var(--ink); }
+  .reveal h1, .reveal h2, .reveal h3, .reveal h4 { font-family: "EB Garamond", Georgia, serif; font-weight: 600; color: var(--ink); text-transform: none; letter-spacing: 0; }
+  .reveal .slides { text-align: left; }
+  .reveal a { color: var(--accent); }
+  .reveal code { background: #efe6d8; border-radius: 0.25rem; font-size: 0.85em; padding: 0.1em 0.3em; }
+  .reveal pre { background: #2b2722; color: #fff7e8; box-shadow: none; }
+  .reveal pre code { background: transparent; padding: 0; }
+  .reveal section img { max-height: 65vh; border-radius: 0.4rem; }
+  .reveal figcaption { font-size: 0.65em; color: var(--muted); margin-top: 0.4em; }
+  .reveal .progress { color: var(--accent); }
+  .reveal .controls { color: var(--accent); }
+  .missing-link { color: var(--muted); text-decoration: underline dotted; }
+  .deck-footnotes { font-size: 0.7em; color: var(--muted); }
+  .deck-footnotes ul { list-style: none; margin: 0; padding: 0; line-height: 1.8; }
+  .deck-footnotes sup { font-size: 0.75em; font-weight: 700; margin-right: 0.25em; }
+  .hover-card { background: #fffdf8; border: 1px solid #ded5c8; border-radius: 0.85rem; box-shadow: 0 18px 50px rgba(40,32,20,0.16); color: #25221e; display: none; font-family: Inter, ui-sans-serif, sans-serif; left: 0; max-width: 22rem; padding: 0.9rem 1rem; position: fixed; top: 0; z-index: 100; pointer-events: none; }
+  .hover-card[data-visible="true"] { display: block; }
+  .hover-card h3 { font-size: 1rem; margin: 0 0 0.4rem; }
+  .hover-card p { color: #6d655c; font-size: 0.88rem; line-height: 1.45; margin: 0; }
+</style>
+<link rel="stylesheet" href="/SGPWork/assets/deck.css">
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+<section><h1>Learning Taxonomy for AI Governance</h1>
+<ul>
+<li>What?</li>
+<li>Why?</li>
+<li>How?</li>
+<li>And then what?</li>
+</ul>
+<p>note: </p>
+<p>Most of us have been tyrannized for years, if not decades, by our institutions peddling &quot;learning outcomes,&quot; &quot;rubrics,&quot; and &quot;assessments.&quot; On average we cynically go through the motions.</p>
+<p>It&#39;s unfortunate that these ideas and practices are somewhat discredited because they came to us from bandwagoneers eager to please the Bush White House, because we SHOULD be more reflective and systematic about what and how we teach and what and how well students learn.</p>
+<p>Those of us who are methodologically inclined have been the most offended by the status quo around outcomes because of years of being told &quot;don&#39;t ask too many questions, just do it.&quot; We come from traditions where classifications and measurement procedures are carefully thought about and rigorously debated. That wasn&#39;t the case with learning outcomes.</p>
+<p>So why am I advocating for them? Because done right, they can be pretty darn useful.</p>
+</section>
+<section><h3>Process</h3>
+<h5>Inductive LO Generation</h5>
+<p>The raw material was six course descriptions in MPP AI Courses.docx. Claude read these files along with background material on GAIT, etc. Initial prompt: here is what a learning outcome (LO) is, let&#39;s generate six for each course.</p>
+<p>We iterated on content, where six was too stringent a constraint, which LOs might be too broad, etc. and settled on a list of <strong>45 learning outcomes</strong> — verb-first, measurable, <code>#Hashtag</code> handles. For example: </p>
+<ul>
+<li><strong>#ClearThePath</strong>: (Student will be able to) [i]dentify norms/regulations that block beneficial AI deployment and propose reforms.</li>
+<li><strong>#TranslateTech</strong>: (Student will be able to) [c]ommunicate technical claims about AI systems, including their uncertainty, to non-technical decision-makers in briefing, testimony, and memo form.</li>
+</ul>
+</section>
+<section><h2>The network view</h2>
+<ul>
+<li>Nodes colored by course; grey links = same course, colored = shared cluster</li>
+<li><strong>New:</strong> dashed nodes = proposed outcomes, with dashed <em>seam</em> links showing where each proposal attaches</li>
+<li>Toggle the proposal layer on/off; click to focus the gaps</li>
+</ul>
+<p><figure><img src="https://innoeduvation.org/scratch/MPPAIOutcomesNetwork.html" alt=""></figure>
+</p>
+</section>
+<section><h2>The gap analysis</h2>
+<ul>
+<li>Asked: what do the courses <em>fail to say</em> for graduates governing the A(G)I transition?</li>
+<li><strong>Five structural gaps</strong>: international governance · politics of adoption · deciding under deep uncertainty · the existing legal landscape · algorithmic government today</li>
+<li><strong>22 proposed outcomes</strong>, three candidate new courses (A International Order, B Politics of the Transition, C Governance Lab)</li>
+<li>Every proposal cataloged as an LO note with provenance and seams</li>
+</ul>
+</section>
+<section><h2>Taxonomy beginnings &amp; what&#39;s next</h2>
+<ul>
+<li><strong>Knols</strong>: atomic knowledge/skill units beneath each outcome; composition <em>inside</em> an LO, <code>requires</code> edges <em>between</em> LOs</li>
+<li>Supporting layers: acronym glossary, wikilinked corpus, index note</li>
+<li>Next: md→HTML sync script (make the notes authoritative), a synoptic editing view, tiers for a layered prerequisite graph</li>
+</ul>
+</section>
+<section><h2>Media test 1 — images</h2>
+<p>Wikilink embed, sized:</p>
+<p>!<span class="missing-link">450</span></p>
+<p>Markdown embed:</p>
+<p><figure><img src="images/GAIT%20TrajectoryLiberalDemocracy.png" alt="|300"><figcaption>|300</figcaption></figure>
+</p>
+</section>
+<section><h2>Media test 2 — raw iframe</h2>
+<iframe src="https://innoeduvation.org/scratch/MPPAIOutcomesNetwork.html" width="900" height="500"></iframe></section>
+<section><!-- slide data-background-iframe="https://innoeduvation.org/scratch/MPPAIOutcomesNetwork.html" data-background-interactive -->
+
+<h2>Media test 3 — background iframe</h2>
+<p>(This slide&#39;s background <em>is</em> the live network — interactive.)</p>
+</section>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+Reveal.initialize({ hash: false, slideNumber: true, controls: true, progress: true, center: false, scrollActivationWidth: null });
+</script>
+<script>
+(function () {
+  const card = document.createElement('aside');
+  card.className = 'hover-card';
+  card.setAttribute('role', 'tooltip');
+  document.body.appendChild(card);
+
+  let indexPromise;
+  function loadIndex() {
+    if (!indexPromise) {
+      indexPromise = fetch('/SGPWork/documents.json').then((r) => r.json()).catch(() => ({}));
+    }
+    return indexPromise;
+  }
+
+  function positionCard(e) {
+    const pad = 16, width = 352;
+    const left = Math.min(e.clientX + pad, window.innerWidth - width - pad);
+    const top = Math.min(e.clientY + pad, window.innerHeight - 180);
+    card.style.transform = `translate(${Math.max(pad, left)}px, ${Math.max(pad, top)}px)`;
+  }
+
+  async function show(e) {
+    const slug = e.currentTarget.dataset.previewSlug;
+    const index = await loadIndex();
+    const doc = index[slug];
+    if (!doc) return;
+    card.innerHTML = `<h3>${doc.title}</h3><p>${doc.excerpt || 'No preview available yet.'}</p>`;
+    positionCard(e);
+    card.dataset.visible = 'true';
+  }
+
+  function hide() { card.dataset.visible = 'false'; }
+
+  document.querySelectorAll('a[data-preview-slug]').forEach((link) => {
+    link.addEventListener('mouseenter', show);
+    link.addEventListener('mousemove', positionCard);
+    link.addEventListener('mouseleave', hide);
+    link.addEventListener('focus', show);
+    link.addEventListener('blur', hide);
+  });
+}());
+</script>
+</body>
+</html>
